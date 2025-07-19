@@ -1,4 +1,4 @@
------>>>>>> i used MCLAWRENCE.CO@GMAIL.COM
+----->>>>>> i used MCLAWRENCE.CO@GMAIL.COM FOR FIREBASE
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
